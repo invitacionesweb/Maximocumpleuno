@@ -333,6 +333,9 @@ footer img {
     .infoimportante {
         padding-top: 220px;
     }
+    .infoimportante h1{
+        display: none;
+    }
     .infoimportante img {
         display: none;
     }
