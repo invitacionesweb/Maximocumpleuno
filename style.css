@@ -171,7 +171,7 @@ main img {
 main p {
     padding: 6px 40px 30px 40px;
     max-width: 350px;
-    font-size: 1em;
+    font-size: 1.1em;
     
 }
 .galeria {
@@ -204,7 +204,7 @@ main p {
 .segundo p {
     padding: 6px 40px;
     max-width: 500px;
-    font-size: 1em;
+    font-size: 1.1em;
     
 }
 .segundo img{
